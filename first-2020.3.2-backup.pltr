@@ -1,0 +1,155 @@
+{
+  "cards": [
+    {
+      "characters": [],
+      "description": "\tRinein explains what is going on and askes for help.\n\t",
+      "id": 2,
+      "lineId": 0,
+      "places": [],
+      "sceneId": 1,
+      "tags": [],
+      "title": "Metting with Rinein"
+    },
+    {
+      "characters": [],
+      "description": "",
+      "id": 1,
+      "lineId": 1,
+      "places": [],
+      "sceneId": 0,
+      "tags": [],
+      "title": "Planet Starts going  crazy"
+    },
+    {
+      "characters": [],
+      "description": "",
+      "id": 0,
+      "lineId": 0,
+      "places": [],
+      "sceneId": 0,
+      "tags": [],
+      "title": "Cargo to Rinein"
+    }
+  ],
+  "characters": [
+    {
+      "cards": [],
+      "color": null,
+      "description": "",
+      "id": 0,
+      "name": "Josh Halerin",
+      "noteIds": [],
+      "notes": "Captain's son.\n"
+    }
+  ],
+  "customAttributes": {
+    "cards": [],
+    "characters": [],
+    "lines": [],
+    "places": [],
+    "scenes": []
+  },
+  "file": {
+    "dirty": true,
+    "fileName": "E:\\Writing\\HereWeGo\\first.pltr",
+    "loaded": true,
+    "version": "2020.3.2"
+  },
+  "lines": [
+    {
+      "color": "#0b1117",
+      "id": 5,
+      "position": 5,
+      "title": "Dory"
+    },
+    {
+      "color": "#ffc72c",
+      "id": 4,
+      "position": 4,
+      "title": "Subminds"
+    },
+    {
+      "color": "#ff7f32",
+      "id": 3,
+      "position": 3,
+      "title": "Arbiter"
+    },
+    {
+      "color": "#e5554f",
+      "id": 2,
+      "position": 2,
+      "title": "Exploration"
+    },
+    {
+      "color": "#78be20",
+      "id": 1,
+      "position": 1,
+      "title": "Rinein"
+    },
+    {
+      "color": "#6cace4",
+      "id": 0,
+      "position": 0,
+      "title": "Deidre"
+    }
+  ],
+  "notes": [
+    {
+      "characters": [],
+      "content": "",
+      "id": 0,
+      "lastEdited": 1588374508186,
+      "places": [],
+      "tags": [],
+      "title": ""
+    }
+  ],
+  "places": [
+    {
+      "cards": [],
+      "color": null,
+      "description": "",
+      "id": 0,
+      "name": "",
+      "noteIds": [],
+      "notes": ""
+    }
+  ],
+  "scenes": [
+    {
+      "id": 3,
+      "position": 3,
+      "title": "Scene 4"
+    },
+    {
+      "id": 2,
+      "position": 2,
+      "title": "Scene 3"
+    },
+    {
+      "id": 1,
+      "position": 1,
+      "title": "Scene 2"
+    },
+    {
+      "id": 0,
+      "position": 0,
+      "title": "Scene 1"
+    }
+  ],
+  "storyName": "first",
+  "tags": [],
+  "ui": {
+    "characterFilter": null,
+    "characterSort": "name~asc",
+    "currentView": "timeline",
+    "darkMode": false,
+    "noteFilter": null,
+    "noteSort": "title~asc",
+    "orientation": "horizontal",
+    "placeFilter": null,
+    "placeSort": "name~asc",
+    "zoomIndex": 4,
+    "zoomState": null
+  }
+}
