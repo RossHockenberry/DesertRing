@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<ScappleDocument ID="CB8BB5BA-FA94-4B86-802D-B67DF8D919CF" Version="1.1">
+   <Notes>
+      <Note Width="156.128" FontSize="12" ID="0" Position="624.2,760.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>From this point</String>
+         <ConnectedNoteIDs>1-3</ConnectedNoteIDs>
+         <PointsToNoteIDs>1-3</PointsToNoteIDs>
+      </Note>
+      <Note Width="77.832" FontSize="12" ID="1" Position="1040.6,255.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Colony</String>
+         <ConnectedNoteIDs>0, 4</ConnectedNoteIDs>
+         <PointsToNoteIDs>4</PointsToNoteIDs>
+      </Note>
+      <Note Width="180.469" FontSize="12" ID="2" Position="1078.9,750.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Exploration Team
+</String>
+         <ConnectedNoteIDs>0, 9</ConnectedNoteIDs>
+         <PointsToNoteIDs>9</PointsToNoteIDs>
+      </Note>
+      <Note Width="74.0845" FontSize="12" ID="3" Position="1121.1,1185.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Deidre
+</String>
+         <ConnectedNoteIDs>0</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" ID="4" Position="1184.4,119.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Power House Incident</String>
+         <ConnectedNoteIDs>1, 5</ConnectedNoteIDs>
+         <PointsToNoteIDs>5</PointsToNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" ID="5" Position="1245.3,310.9" Level="1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Warehouse Move</String>
+         <ConnectedNoteIDs>4, 6</ConnectedNoteIDs>
+         <PointsToNoteIDs>6</PointsToNoteIDs>
+      </Note>
+      <Note Width="154.504" FontSize="12" ID="6" Position="1426.6,206.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Weather break</String>
+         <ConnectedNoteIDs>5, 7</ConnectedNoteIDs>
+         <PointsToNoteIDs>7</PointsToNoteIDs>
+      </Note>
+      <Note Width="210.938" FontSize="12" ID="7" Position="1598.4,335.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Tunnel collapse
+
+Sam Injured</String>
+         <ConnectedNoteIDs>6</ConnectedNoteIDs>
+      </Note>
+      <Note Width="296.875" FontSize="12" ID="8" Position="2385.9,282.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Colony decides to move
+Heads East because can’t cross river
+</String>
+      </Note>
+      <Note Width="260.938" FontSize="12" ID="9" Position="1406.2,748.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Further exploring. Find subway transport sysem.</String>
+         <ConnectedNoteIDs>2, 10</ConnectedNoteIDs>
+         <PointsToNoteIDs>10</PointsToNoteIDs>
+      </Note>
+      <Note Width="338.281" FontSize="12" ID="10" Position="1405.5,833.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Subway easy way to travel from space port to elevator and each base ring.</String>
+         <ConnectedNoteIDs>9</ConnectedNoteIDs>
+         <PointsToNoteIDs>9</PointsToNoteIDs>
+      </Note>
+   </Notes>
+   <BackgroundShapes/>
+   <NoteStyles>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Pink Bubble" ID="728C3215-601E-4610-96A9-D9F92421D70B" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.690303 0.407263 0.550912</BorderColor>
+         <FillColor>0.898329 0.817472 0.865339</FillColor>
+      </Style>
+      <Style AffectFontStyle="Yes" AffectAlignment="Yes" Name="Title Text" ID="76D23E79-FFA7-421E-A01F-1B62D2A1DA6F" AffectTextColor="No" AffectNoteBody="No" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <IsBold>Yes</IsBold>
+         <FontSize>12.0</FontSize>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Brown Bubble" ID="F809F5F5-D954-4FF5-9E20-E498BDD39618" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.269490 0.164034 0.186694</BorderColor>
+         <FillColor>0.934157 0.888319 0.785290</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Blue Bubble" ID="699574EB-ABCE-4C28-B5EF-4965D0FC5227" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.485893 0.568933 0.756207</BorderColor>
+         <FillColor>0.844068 0.869596 0.923064</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Green Bubble" ID="28749249-1E4B-4C4B-B625-84A011890E96" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.399100 0.583322 0.354864</BorderColor>
+         <FillColor>0.808835 0.872419 0.801343</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Yellow Bubble" ID="90AAE8AB-F3DD-4E65-A5B9-CB536D6BA682" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.769436 0.762219 0.390143</BorderColor>
+         <FillColor>0.912963 0.894118 0.644541</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Red Text" ID="A53B6417-7E00-4560-8AA1-B6DA1D62EC05" AffectTextColor="Yes" AffectNoteBody="No" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <TextColor>1.0 0.0 0.0</TextColor>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>1.0 0.988006 0.945006</BackgroundColor>
+      <DefaultFont>Helvetica</DefaultFont>
+      <DefaultTextColor>0.0 0.0 0.0</DefaultTextColor>
+   </UISettings>
+   <PrintSettings VerticalPagination="Auto" HorizontalPagination="Clip" Orientation="Portrait" RightMargin="12.000000" BottomMargin="12.000000" HorizontallyCentered="Yes" ScaleFactor="1.000000" PagesAcross="1" PaperType="na-letter" PagesDown="1" TopMargin="12.000000" Collates="Yes" PaperSize="-1.000000,-1.000000" LeftMargin="12.000000" VerticallyCentered="Yes"/>
+</ScappleDocument>
